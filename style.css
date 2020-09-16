@@ -1,0 +1,47 @@
+*{
+    background-color:lightgray;
+}
+
+.container{
+    margin-top: 100px;
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: center;
+    align-items: center;
+    word-wrap: break-word;
+    padding: 10px;
+    
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+p,h1,h2,h3,ul,li{
+    background-color:white;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    border-top: 1px lightblue solid;
+    padding: 10px;
+}
+
+span{
+    float: right;
+    background-color: blue;
+    margin-right:0;
+    color: white;
+    padding: 5px;
+}
+
+.info{
+    background-color : white;
+    border: 2px dotted black;
+}
+.info p,h3{
+    line-height: 25px;
+    padding: 5px;
+}
